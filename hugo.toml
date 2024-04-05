@@ -9,6 +9,7 @@ logo = "/img/logo.png"
 mainSchool = false
 defaultDescription = "Sir Apollo Kaggwa nursery and primary school-mengo is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
     [params.school]
+        hm_name = "MUSOKE GODFREY"
         name = "mengo"
         motto = 'Education with a Purpose'
         mission = 'To be a leading school in the provision of quality education'
