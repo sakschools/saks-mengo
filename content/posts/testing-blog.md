@@ -1,7 +1,7 @@
 ---
 title: Testing Blog
-date: 2024-07-20T15:56:00.000Z
-thumbnail: /img/posts/about4.webp
+date: 2024-07-20T17:05:00+03:00
+thumbnail: /img/posts/alumni.jpg
 ---
 # **This is the title for the blog**
 
