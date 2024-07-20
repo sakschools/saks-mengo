@@ -1,7 +1,7 @@
 baseURL = 'https://mengo.sirapollokaggwaschools.co.ug/'
 languageCode = 'en-us'
 title = 'Sir Apollo Kaggwa Primary School - mengo'
-theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
+theme = "saks-theme"
 
 
 [params]
