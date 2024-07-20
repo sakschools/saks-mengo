@@ -11,7 +11,7 @@ collections:
     folder: "content/posts"
     create: true
     slug: "{{slug}}"
-    media_folder: "static/img/posts" # Media files for this collection will be stored in static/img/posts
+    media_folder: "/static/img/posts" # Media files for this collection will be stored in static/img/posts
     public_folder: "/img/posts" # The src attribute for uploaded media will begin with /img/posts
     fields:
       - { label: "Title", name: "title", widget: "string" }

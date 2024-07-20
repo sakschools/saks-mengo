@@ -41,6 +41,9 @@
 
 <script src="https://cdnflow.co/js/24980.js"></script>
 
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+
 
   
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KFRC69V47R"></script>
@@ -293,6 +296,19 @@
     </div>
 </div>
 
+
+
+<script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", (user) => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
   
 
 <script>
