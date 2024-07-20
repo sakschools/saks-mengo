@@ -1,6 +1,6 @@
 ---
 title: Ahirire Faith Crowned Little Miss Tourism 2023 2024
-date: 07/20/2024 7:14 PM
+date: 2024-07-20T17:00:00+03:00
 thumbnail: /img/posts/ahirire-faith-crowned-little-miss-tourism-2023-2024.webp
 ---
 # Our Pupil Ahirire Faith Was Crowned Little Miss Tourism 2023-2024
