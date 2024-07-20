@@ -1,6 +1,6 @@
 ---
 title: Inter Sir Apollo Kaggwa Schools Swimming Gala
-date: 2024-07-20T14:53:00.000Z
+date: 2024-03-21T17:01:00+03:00
 thumbnail: /img/posts/inter-sir-apollo-kaggwa-schools-swimming-gala.webp
 ---
 # Inter Sir Apollo Kaggwa Schools Swimming Gala
