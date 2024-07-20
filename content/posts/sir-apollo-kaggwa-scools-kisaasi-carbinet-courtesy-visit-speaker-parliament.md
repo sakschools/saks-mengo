@@ -1,6 +1,6 @@
 ---
 title: Sir Apollo Kaggwa Scools Kisaasi Carbinet Courtesy Visit Speaker Parliament
-date: 2024-07-20T16:14:00.000Z
+date: 2024-04-19T19:14:00+03:00
 thumbnail: /img/posts/sir-apollo-kaggwa-scools-kisaasi-carbinet-courtesy-visit-speaker-parliament.webp
 ---
 # Sir Apollo Kaggwa Schools - Kisaasi Cabinet Pays a Courtesy Visit to Speaker of Parliament
