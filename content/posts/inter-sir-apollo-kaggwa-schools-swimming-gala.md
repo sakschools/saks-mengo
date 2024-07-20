@@ -1,7 +1,7 @@
 ---
-title: "Inter Sir Apollo Kaggwa Schools Swimming Gala"
-date: 2024-03-18T12:54:15+03:00
-thumbnail: "/img/posts/inter-sir-apollo-kaggwa-schools-swimming-gala.webp"
+title: Inter Sir Apollo Kaggwa Schools Swimming Gala
+date: 2024-07-20T14:53:00.000Z
+thumbnail: /img/posts/inter-sir-apollo-kaggwa-schools-swimming-gala.webp
 ---
 # Inter Sir Apollo Kaggwa Schools Swimming Gala
 
