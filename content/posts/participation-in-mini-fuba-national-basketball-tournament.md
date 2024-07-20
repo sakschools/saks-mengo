@@ -1,6 +1,6 @@
 ---
 title: Participation in Mini Fuba National Basketball Tournament
-date: 2024-07-20T16:14:00.000Z
+date: 2024-03-06T19:14:00+03:00
 thumbnail: /img/posts/participation-in-mini-fuba-national-basketball-tournament.webp
 ---
 # Participation in Mini FUBA National Basketball Tournament
