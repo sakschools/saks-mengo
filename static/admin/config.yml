@@ -64,3 +64,27 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+    
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - label: "Site Params"
+        name: "params"
+        file: "config.toml"
+        fields:
+          - { label: "Logo", name: "params.logo", widget: "image" }
+          - { label: "Default Description", name: "params.defaultDescription", widget: "string" }
+          - { label: "Headmaster Name", name: "params.school.hm_name", widget: "string" }
+          - { label: "School Name", name: "params.school.name", widget: "string" }
+          - { label: "Motto", name: "params.school.motto", widget: "string" }
+          - { label: "Mission", name: "params.school.mission", widget: "string" }
+          - { label: "Vision", name: "params.school.vision", widget: "string" }
+          - { label: "Summary 1", name: "params.school.summary1", widget: "text" }
+          - { label: "Summary 2", name: "params.school.summary2", widget: "text" }
+          - { label: "Headmaster Message", name: "params.school.hm", widget: "text" }
+          - { label: "Carousel Text 2", name: "params.carousel.two", widget: "string" }
+          - { label: "Carousel Text 3", name: "params.carousel.three", widget: "string" }
+          - { label: "Carousel Text 4", name: "params.carousel.four", widget: "string" }
+          - { label: "Carousel Text 5", name: "params.carousel.five", widget: "string" }
+          - { label: "Carousel Text 6", name: "params.carousel.six", widget: "string" }
+
