@@ -20,18 +20,48 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime", default: "", format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "gallery"
-    label: "Gallery"
-    folder: "static/img/gallery"
-    create: true
-    media_folder: "/static/img/gallery"
-    public_folder: "/img/gallery"
-    slug: "{{slug}}"
+
+  - name: "about"
+    label: "About Page"
+    folder: "content/about"
+    create: false
+    slug: "index"
+    media_folder: "/static/img/about"
+    public_folder: "/img/about"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Gallery Images", name: "gallery_images", widget: "list", field: { label: "Image", name: "image", widget: "image" } }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
-media_library:
-  name: uploadcare
-  config:
-    publicKey: aa82a93d8ccda817bbac
+  - name: "hm"
+    label: "HM Page"
+    folder: "content/hm"
+    create: false
+    slug: "index"
+    media_folder: "/static/img/hm"
+    public_folder: "/img/hm"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "hp"
+    label: "HP Page"
+    folder: "content/hp"
+    create: false
+    slug: "index"
+    media_folder: "/static/img/hp"
+    public_folder: "/img/hp"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "staff"
+    label: "Staff Page"
+    folder: "content/staff"
+    create: false
+    slug: "index"
+    media_folder: "/static/img/staff"
+    public_folder: "/img/staff"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
