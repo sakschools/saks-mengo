@@ -17,6 +17,16 @@ collections:
     public_folder: "/img/posts" # The src attribute for uploaded media will begin with /img/posts
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", default: "",format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Publish Date", name: "date", widget: "datetime", default: "", format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "gallery"
+    label: "Gallery"
+    folder: "static/img/gallery"
+    create: true
+    media_folder: "/static/img/gallery"
+    public_folder: "/img/gallery"
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Gallery Images", name: "gallery_images", widget: "list", field: { label: "Image", name: "image", widget: "image" } }
