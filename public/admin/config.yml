@@ -30,3 +30,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Gallery Images", name: "gallery_images", widget: "list", field: { label: "Image", name: "image", widget: "image" } }
+
+media_library:
+  name: uploadcare
+  config:
+    publicKey: aa82a93d8ccda817bbac
