@@ -4,6 +4,8 @@ backend:
 
 media_folder: "static/img" # Base media folder
 public_folder: "/img" # Base public folder
+display_url: https://mengo.sirapollokaggwaschools.co.ug/
+logo_url: https://mengo.sirapollokaggwaschools.co.ug/img/logo.png
 
 collections:
   - name: "news"
