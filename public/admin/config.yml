@@ -1,90 +1,26 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: sakschools/saks-mengo
   branch: main
+  site_domain: https://mengo.sirapollokaggwaschools.co.ug
+  base_url: https://mengo.sirapollokaggwaschools.co.ug
+  auth_endpoint: /api/auth
 
-media_folder: "static/img" # Base media folder
-public_folder: "/img" # Base public folder
-display_url: https://mengo.sirapollokaggwaschools.co.ug/
-logo_url: https://mengo.sirapollokaggwaschools.co.ug/img/logo.png
+media_folder: "static/img"
+public_folder: "/img"
 
 collections:
-  - name: "news"
-    label: "School Events/News"
-    folder: "content/posts"
+  - name: 'blog'
+    label: 'Blog Posts'
+    folder: 'content/posts'
     create: true
-    slug: "{{slug}}"
-    media_folder: "/static/img/posts" # Media files for this collection will be stored in static/img/posts
-    public_folder: "/img/posts" # The src attribute for uploaded media will begin with /img/posts
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    preview_path: "blog/{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", default: "", format: "YYYY-MM-DDTHH:mm:ssZ" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "about"
-    label: "About Page"
-    folder: "content/about"
-    create: false
-    slug: "index"
-    media_folder: "/static/img/about"
-    public_folder: "/img/about"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "hm"
-    label: "HM Page"
-    folder: "content/hm"
-    create: false
-    slug: "index"
-    media_folder: "/static/img/hm"
-    public_folder: "/img/hm"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "hp"
-    label: "HP Page"
-    folder: "content/hp"
-    create: false
-    slug: "index"
-    media_folder: "/static/img/hp"
-    public_folder: "/img/hp"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "staff"
-    label: "Staff Page"
-    folder: "content/staff"
-    create: false
-    slug: "index"
-    media_folder: "/static/img/staff"
-    public_folder: "/img/staff"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-    
-  - name: "settings"
-    label: "Site Settings"
-    files:
-      - label: "Site Params"
-        name: "params"
-        file: "config.toml"
-        fields:
-          - { label: "Logo", name: "params.logo", widget: "image" }
-          - { label: "Default Description", name: "params.defaultDescription", widget: "string" }
-          - { label: "Headmaster Name", name: "params.school.hm_name", widget: "string" }
-          - { label: "School Name", name: "params.school.name", widget: "string" }
-          - { label: "Motto", name: "params.school.motto", widget: "string" }
-          - { label: "Mission", name: "params.school.mission", widget: "string" }
-          - { label: "Vision", name: "params.school.vision", widget: "string" }
-          - { label: "Summary 1", name: "params.school.summary1", widget: "text" }
-          - { label: "Summary 2", name: "params.school.summary2", widget: "text" }
-          - { label: "Headmaster Message", name: "params.school.hm", widget: "text" }
-          - { label: "Carousel Text 2", name: "params.carousel.two", widget: "string" }
-          - { label: "Carousel Text 3", name: "params.carousel.three", widget: "string" }
-          - { label: "Carousel Text 4", name: "params.carousel.four", widget: "string" }
-          - { label: "Carousel Text 5", name: "params.carousel.five", widget: "string" }
-          - { label: "Carousel Text 6", name: "params.carousel.six", widget: "string" }
-
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DDTHH:mm:ssZ' }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image',
+          choose_url: false,
+          media_library: { config: { folder: 'posts' } }
+        }
+      - { label: 'Content', name: 'body', widget: 'markdown' }
