@@ -9,6 +9,8 @@ A key highlight of the assemblies was the introduction of the Term One theme: â€
 
 The assemblies also emphasized our School Culture, highlighting the values and practices that guide life at Sir Apollo Kaggwa Primary School Mengo. Pupils were encouraged to show respect to staff, peers and the school environment, fostering a positive and harmonious atmosphere. The importance of academic excellence was reinforced through active participation in lessons, consistent completion of homework, and engagement in projects that deepen understanding and develop practical skills. Learners were guided on how engagement in learning, both inside the classroom and through independent assignments, contributes significantly to their personal and academic growth.
 
+![](/img/1001379019.jpg)
+
 Equally important was the promotion of a strong sense of belonging, helping every child feel included, valued, and part of the school community. Pupils were introduced to opportunities for joining school clubs and talent development programs, which allow them to explore interests, nurture abilities, and contribute to the vibrant life of the school. 
 
 The assemblies also highlighted the importance of personal hygiene, encouraging habits that support health, confidence, and readiness to learn. Together, these elements create a well-rounded school culture that nurtures responsible, engaged, and motivated learners.
