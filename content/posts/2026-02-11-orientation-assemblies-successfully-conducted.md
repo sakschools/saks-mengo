@@ -7,6 +7,8 @@ Sir Apollo Kaggwa Primary School Mengo held lively and well-structured orientati
 
 A key highlight of the assemblies was the introduction of the Term One theme: “Igniting the Passion for Learning and Striving for Excellence.” Pupils were guided to understand the significance of this theme and how it will shape their academic journey throughout the term. They were encouraged to cultivate curiosity, remain enthusiastic about learning, and consistently give their best effort in both classroom and co-curricular activities.
 
+![](/img/1001379009.jpg)
+
 The assemblies also emphasized our School Culture, highlighting the values and practices that guide life at Sir Apollo Kaggwa Primary School Mengo. Pupils were encouraged to show respect to staff, peers and the school environment, fostering a positive and harmonious atmosphere. The importance of academic excellence was reinforced through active participation in lessons, consistent completion of homework, and engagement in projects that deepen understanding and develop practical skills. Learners were guided on how engagement in learning, both inside the classroom and through independent assignments, contributes significantly to their personal and academic growth.
 
 ![](/img/1001379019.jpg)
