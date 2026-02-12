@@ -25,7 +25,7 @@ Another important moment during the orientation was the formal introduction of t
 
 The Headteacher delivered an inspiring and thoughtful address, encouraging pupils to approach the new academic year with passion, commitment, and a positive mindset. Learners were reminded that excellence is achieved through consistency, discipline, and determination.
 
-![](/img/1001379014.jpg)
+![](/img/1001379014.jpg "Lower Primary Assembly ")
 
 Guided by our motto, “We Enable the Future,” the orientation assemblies have set a strong and purposeful foundation for the term ahead. Sir Apollo Kaggwa Primary School Mengo looks forward to nurturing learners who are passionate, focused, and prepared to strive for excellence in all that they do.
 
