@@ -17,12 +17,14 @@ The assemblies also highlighted the importance of personal hygiene, encouraging 
 
 Learners were further oriented on the School Routine, including reporting time, daily schedules, transitions, and dismissal procedures. Clear routines provide structure and stability, enabling pupils to develop independence, time management, and confidence in handling their responsibilities.
 
+![](/img/1001379013.jpg)
+
 Another important moment during the orientation was the formal introduction of the teaching staff. This interaction fostered familiarity and reassurance, strengthening the bond between pupils and their teachers from the very beginning of the term. Educators reaffirmed their commitment to guiding, mentoring, and supporting every learner toward academic and personal success.
 
 The Headteacher delivered an inspiring and thoughtful address, encouraging pupils to approach the new academic year with passion, commitment, and a positive mindset. Learners were reminded that excellence is achieved through consistency, discipline, and determination.
 
 ![](/img/1001379014.jpg)
 
-![](/img/1001379017.jpg)
-
 Guided by our motto, “We Enable the Future,” the orientation assemblies have set a strong and purposeful foundation for the term ahead. Sir Apollo Kaggwa Primary School Mengo looks forward to nurturing learners who are passionate, focused, and prepared to strive for excellence in all that they do.
+
+![](/img/1001379017.jpg)
