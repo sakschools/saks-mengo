@@ -17,7 +17,7 @@ Equally important was the promotion of a strong sense of belonging, helping ever
 
 The assemblies also highlighted the importance of personal hygiene, encouraging habits that support health, confidence, and readiness to learn. Together, these elements create a well-rounded school culture that nurtures responsible, engaged, and motivated learners.
 
-Learners were further oriented on the School Routine, including reporting time, daily schedules, transitions, and dismissal procedures. Clear routines provide structure and stability, enabling pupils to develop independence, time management, and confidence in handling their responsibilities.
+Learners were further orientated on the School Routine, including reporting time, daily schedules, transitions, and dismissal procedures. Clear routines provide structure and stability, enabling pupils to develop independence, time management, and confidence in handling their responsibilities.
 
 ![](/img/1001379013.jpg)
 
