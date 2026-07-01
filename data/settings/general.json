@@ -3,15 +3,15 @@
   "logo": "/img/logo.png",
   "mainSchool": false,
   "school": {
-    "motto": "Education with a Purpose",
+    "motto": "We Enable The Future",
     "mission": "To be a leading school in the provision of quality education",
     "vision": "The vision of Sir Apollo Kaggwa Primary School, Mengo is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work."
   },
   "address": "",
   "title": "Sir Apollo Kaggwa Primary School - Mengo",
   "locale": "en-us",
+  "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7600892968558!2d32.55370117369948!3d0.30955576403890955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbca3089c671d%3A0x7ac98c9c0a2ff8bb!2sSir%20Apollo%20Kaggwa%20Primary%20School!5e0!3m2!1sen!2sug!4v1711374507423!5m2!1sen!2sug",
   "defaultDescription": "Sir Apollo Kaggwa nursery and primary school-Mengo is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level.",
   "email": "info@sirapollokaggwaschools.co.ug",
-  "baseURL": "https://mengo.sirapollokaggwaschools.co.ug/",
-  "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7600892968558!2d32.55370117369948!3d0.30955576403890955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbca3089c671d%3A0x7ac98c9c0a2ff8bb!2sSir%20Apollo%20Kaggwa%20Primary%20School!5e0!3m2!1sen!2sug!4v1711374507423!5m2!1sen!2sug"
+  "baseURL": "https://mengo.sirapollokaggwaschools.co.ug/"
 }
